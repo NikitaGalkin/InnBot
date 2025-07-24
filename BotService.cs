@@ -1,13 +1,8 @@
 ﻿using Telegram.Bot;
 using Telegram.Bot.Types;
-using Telegram.Bot.Exceptions;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types.Enums;
 using System.Text;
-using TelegramInnBot.Models;
-using System.Net.NetworkInformation;
-using Newtonsoft.Json.Bson;
-using System.Threading;
 
 /// <summary>
 /// Класс, инкапсулирующий логику бота.

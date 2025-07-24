@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Configuration;
-using TelegramInnBot;
 
 class Program
 {

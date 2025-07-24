@@ -19,7 +19,7 @@ public static class InnService
             .AddJsonFile("tokens.json")
             .Build();
 
-        _apiToken = config["ApiToken"];
+        _apiToken = config["DaDataApiToken"];
     }
 
     /// <summary>
